@@ -1,0 +1,13 @@
+
+@Entity
+@Data
+public class Employee{
+
+@id
+private Long id;
+
+private String name;
+
+private String department;
+
+}
